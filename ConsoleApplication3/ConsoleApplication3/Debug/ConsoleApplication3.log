@@ -1,3 +1,3 @@
 ﻿  ConsoleApplication3.cpp
-C:\Users\adam-\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  ConsoleApplication3.vcxproj -> C:\Users\adam-\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
+C:\Users\adam-\OneDrive - УрФУ\Documents\GitHub\first_project\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication3.vcxproj -> C:\Users\adam-\OneDrive - УрФУ\Documents\GitHub\first_project\ConsoleApplication3\Debug\ConsoleApplication3.exe
